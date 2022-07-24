@@ -1,2 +1,2 @@
 # Harvard-CS50-EDx
-Taking the Course
+1. CS50's Introduction to Computer Science
